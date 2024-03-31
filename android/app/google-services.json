@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1031183302428",
+    "project_id": "slotseek-9f892",
+    "storage_bucket": "slotseek-9f892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031183302428:android:d6a3fe675f8a01181c04d9",
+        "android_client_info": {
+          "package_name": "com.example.slot_seek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031183302428-oumu4m6stj5o1ilr20h5v91sqgn6hguc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0Ddp9AaTmNglRQsc6JeXUrzIbYtvTrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031183302428-oumu4m6stj5o1ilr20h5v91sqgn6hguc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031183302428-55egtpe0dej8q74o56n01gddh1bm2q0d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.slotSeek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
