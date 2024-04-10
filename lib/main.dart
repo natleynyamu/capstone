@@ -1,7 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:slot_seek/app_colors.dart';
-import 'package:slot_seek/get_started.dart';
+import 'package:slot_seek/custom/app_colors.dart';
+import 'package:slot_seek/loading/get_started.dart';
 import 'firebase_options.dart';
 
 void main() async {
